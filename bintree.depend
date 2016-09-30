@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1475193013 source:/home/sig/projects/bintree/bintree/main.cpp
+	<iostream>
+	"BinaryTree.h"
+
+1475187784 source:/home/sig/projects/bintree/bintree/src/BinaryTree.cpp
+	"BinaryTree.h"
+
+1475192935 /home/sig/projects/bintree/bintree/include/BinaryTree.h
+	<cstddef>
+
