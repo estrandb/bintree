@@ -6,6 +6,7 @@
 template <typename T> struct node
 {
     T key_value;
+    node<T>* parent;
     node<T>* left;
     node<T>* right;
 };
